@@ -42,4 +42,5 @@ public class CalculatorTest {
 	public void isEqualNegativeTest() {
 		assertFalse(calculator.isEqual(4, 2));
 	}
+	
 }
